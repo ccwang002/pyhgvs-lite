@@ -1,0 +1,24 @@
+# OS generated files
+.DS_Store
+.Trash-*
+Thumbs.db
+
+# Vim swap files
+*.swp
+*~
+
+# VS Code
+.vscode/
+
+# Python
+*.egg-info/
+*.py[cod]
+__pycache__
+
+.mypy_cache/
+.pytest_cache/
+.tox/
+
+docs/_build/
+
+dist/
