@@ -8,6 +8,9 @@ readme = "README.md"
 homepage = "https://github.com/ccwang002/pyhgvs-lite"
 repository = "https://github.com/ccwang002/pyhgvs-lite"
 documentation = "https://github.com/ccwang002/pyhgvs-lite"
+include = [
+    "CHANGES.rst",
+]
 
 [tool.poetry.dependencies]
 python = ">=3.6"
